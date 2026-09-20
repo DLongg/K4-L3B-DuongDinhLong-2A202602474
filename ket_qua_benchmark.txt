@@ -1,0 +1,65 @@
+================================================================================
+K4-L3B: KẾT QUẢ ĐÁNH GIÁ TRUY XUẤT (RETRIEVAL BENCHMARK REPORT)
+Chiến lược Chunking : HEADING (CustomHeadingChunker)
+Mô hình Embedding   : sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+Tập tài liệu        : 9 văn bản trong data/ecommerce/
+================================================================================
+
+-> Đã tạo và nạp thành công 161 chunks vào Vector Store.
+
+--------------------------------------------------------------------------------
+CHI TIẾT 5 CÂU HỎI BENCHMARK:
+--------------------------------------------------------------------------------
+
+[CÂU 1] Người mua Shopee phải gửi yêu cầu trả hàng hoặc hoàn tiền trong bao lâu sau khi giao hàng thành công?
+  * Bộ lọc (Filter) : None
+  * Đáp án chuẩn    : Đơn thông thường: 15 ngày; thực phẩm tươi sống và đông lạnh: 24 giờ kể từ khi giao thành công.
+  * Tài liệu đích   : shopee-return-refund-policy
+    - Top-1 [score=0.8121] doc_id=shopee-return-refund-policy | content: [## 5. Trách nhiệm và thời hạn phản hồi của Người Bán] - Quá thời hạn 02 ngày mà Người Bán không phả...
+    - Top-2 [score=0.8067] doc_id=tiktok-return-refund-policy | content: ## Bước 1: Quy trình trả hàng/hoàn tiền của khách hàng  Khách hàng có thể yêu cầu trả hàng hoặc hoàn...
+    - Top-3 [score=0.7975] doc_id=tiktok-return-refund-policy | content: [## Bước 3: Xem xét sản phẩm trả hàng] Nếu chưa nhận được hàng sau khi trạng thái trả hàng chuyển sa...
+
+[CÂU 2] MediaMart cho đổi sản phẩm chưa qua sử dụng trong thời hạn nào theo từng nhóm sản phẩm?
+  * Bộ lọc (Filter) : None
+  * Đáp án chuẩn    : Điện tử/điện lạnh/gia dụng: 3 ngày; điện thoại và máy tính bảng: 15 ngày; laptop, máy ảnh, máy quay: 2 ngày; phụ kiện đủ điều kiện: 30 ngày, kèm các ngoại lệ nêu trong chính sách.
+  * Tài liệu đích   : mediamart-doitra-buyer
+    - Top-1 [score=0.6292] doc_id=mediamart-baohanh-buyer | content: [# Chính sách bảo hành tại MediaMart] Nhằm mục đích nâng cao chất lượng dịch vụ sau bán hàng, đảm bả...
+    - Top-2 [score=0.6190] doc_id=mediamart-baohanh-buyer | content: ## 1. Phạm vi bảo hành * Tất cả sản phẩm được MEDIAMART phân phối, bán lẻ chính thức tại thị trường ...
+    - Top-3 [score=0.6001] doc_id=mediamart-doitra-buyer | content: # Chính sách đổi trả hàng tại MediaMart  Công ty Cổ phần MEDIAMART VIỆT NAM áp dụng Chính sách đổi t...
+
+[CÂU 3] Cần làm gì khi nhận được yêu cầu trả hàng và hoàn tiền?
+  * Bộ lọc (Filter) : {'audience': 'seller'}
+  * Đáp án chuẩn    : Người bán vào Trung tâm nhà bán hàng > Đơn hàng > Quản lý yêu cầu trả hàng, mở tab Đang chờ hành động và lọc Trả hàng và hoàn tiền; yêu cầu thủ công phải được duyệt hoặc từ chối trong 1 ngày dương lịch, và hàng trả phải được kiểm tra trong 2 ngày dương lịch.
+  * Tài liệu đích   : tiktok-manage-return-refund
+    - Top-1 [score=0.6896] doc_id=tiktok-manage-return-refund | content: ## Yêu cầu trả hàng và hoàn tiền là gì...
+    - Top-2 [score=0.6287] doc_id=tiktok-manage-return-refund | content: [## Yêu cầu trả hàng và hoàn tiền là gì] Yêu cầu trả hàng và hoàn tiền được đưa ra khi người mua khô...
+    - Top-3 [score=0.6271] doc_id=tiktok-manage-return-refund | content: [## Cách quản lý yêu cầu trả hàng và hoàn tiền] Sau khi nhận được hàng trả lại, bạn có thể phê duyệt...
+
+[CÂU 4] MediaMart hỗ trợ những phương thức thanh toán nào?
+  * Bộ lọc (Filter) : None
+  * Đáp án chuẩn    : Thanh toán tiền mặt; thanh toán trước bằng chuyển tiền/chuyển khoản, tiền mặt hoặc thẻ tại văn phòng; và thanh toán trực tuyến bằng thẻ quốc tế, thẻ nội địa hoặc dịch vụ thanh toán điện tử.
+  * Tài liệu đích   : mediamart-thanhtoan-buyer
+    - Top-1 [score=0.7801] doc_id=mediamart-thanhtoan-buyer | content: ## 2. Phương thức thanh toán trước Khách hàng có thể chuyển tiền, chuyển khoản, thanh toán trực tiếp...
+    - Top-2 [score=0.7664] doc_id=mediamart-thanhtoan-buyer | content: [## 3. Thanh toán trực tuyến] Khi phát sinh sự cố hoặc nghi ngờ gian lận, MediaMart có thể đối chiếu...
+    - Top-3 [score=0.7437] doc_id=mediamart-thanhtoan-buyer | content: ## 1. Thanh toán tiền mặt Thanh toán tiền mặt áp dụng tại các khu vực MediaMart hỗ trợ giao nhận miễ...
+
+[CÂU 5] Hãy liệt kê các thời hạn khiếu nại và xử lý khiếu nại vận chuyển của Shopee.
+  * Bộ lọc (Filter) : None
+  * Đáp án chuẩn    : Thất lạc khi chuyển hoàn: 7 ngày; hàng hư hại/không nguyên vẹn: 3 ngày; khiếu nại sai phí: 7 ngày; cung cấp bằng chứng: 24 giờ; Shopee xử lý tối đa 10 ngày làm việc sau khi nhận đủ bằng chứng hợp lệ.
+  * Tài liệu đích   : shopee-shipping-policy
+    - Top-1 [score=0.7720] doc_id=shopee-shipping-policy | content: [### 5.1. Thời hạn khiếu nại] - **Thời hạn cung cấp bằng chứng:** Trong vòng **24 giờ** kể từ khi gử...
+    - Top-2 [score=0.7670] doc_id=shopee-shipping-policy | content: [### 5.1. Thời hạn khiếu nại] - **Đơn chuyển hoàn không thành công:** Đơn lưu tại kho vận chuyển tối...
+    - Top-3 [score=0.7147] doc_id=shopee-return-refund-policy | content: [## 5. Trách nhiệm và thời hạn phản hồi của Người Bán] - Quá thời hạn 02 ngày mà Người Bán không phả...
+
+--------------------------------------------------------------------------------
+THỬ NGHIỆM A/B FILTER (CÓ FILTER vs KHÔNG FILTER)
+--------------------------------------------------------------------------------
+Query: "Cần làm gì khi nhận được yêu cầu trả hàng và hoàn tiền?"
+1. Khi CÓ filter {'audience': 'seller'}:
+   * [score=0.6896] doc_id=tiktok-manage-return-refund (audience=seller)
+   * [score=0.6287] doc_id=tiktok-manage-return-refund (audience=seller)
+   * [score=0.6271] doc_id=tiktok-manage-return-refund (audience=seller)
+2. Khi KHÔNG CÓ filter (None):
+   * [score=0.6896] doc_id=tiktok-manage-return-refund (audience=seller)
+   * [score=0.6776] doc_id=tiktok-return-refund-policy (audience=both)
+   * [score=0.6304] doc_id=shopee-return-refund-policy (audience=buyer)

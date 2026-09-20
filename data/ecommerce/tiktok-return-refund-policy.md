@@ -1,58 +1,76 @@
 ---
-doc_id: tiktok-return-refund-policy
-title: Chính sách hủy đơn, trả hàng và hoàn tiền TikTok Shop
-audience: seller
-category: returns-policy
-language: vi
-source_url: https://seller-vn.tiktok.com/university/essay?identity=1&role=1&knowledge_id=1766935302801169
-retrieved_at: 2026-09-20
-document_version: "2026-09-14"
+doc_id: "tiktok-return-refund-policy"
+title: "Chính sách hủy đơn trả hàng và hoàn tiền TikTok Shop"
+source_url: "https://seller-vn.tiktok.com/university/essay?identity=1&role=1&knowledge_id=1766935302801169"
+retrieved_at: "2026-09-20"
+document_version: "not-stated"
+audience: "both"
+category: "return-refund-policy"
+language: "vi"
 ---
 
-# Chính sách hủy đơn hàng, trả hàng và hoàn tiền TikTok Shop
+# Chính sách hủy đơn trả hàng và hoàn tiền TikTok Shop
 
-## 1. Tổng quan
-- **Khu vực áp dụng:** Việt Nam.
-- **Phạm vi:** Quy định quy trình hậu mãi đối với các giao dịch trên TikTok Shop, bao gồm hủy đơn hàng, trả hàng và hoàn tiền, trách nhiệm của Người bán và phân bổ chi phí vận chuyển.
+Bài viết này trình bày chính sách trả hàng và hoàn tiền trên TikTok Shop.
 
-## 2. Quy định về Hủy đơn hàng
-### 2.1. Người bán hủy đơn hàng
-- Người bán có thể hủy đơn bất kỳ lúc nào trước khi đơn hàng chuyển sang trạng thái *"Đã vận chuyển - Đang vận chuyển"*.
-- Đơn hủy sẽ bị tính vào **Tỷ lệ hủy do lỗi của Người bán (SFCR)**.
-- **Quy định bắt buộc:** Người bán tuyệt đối không được yêu cầu hoặc ép buộc khách hàng hủy đơn hàng.
+## Tổng quan về thời gian và quy trình trả hàng/hoàn tiền
 
-### 2.2. Khách hàng hủy đơn hàng
-- Khách hàng có thể hủy đơn bất kỳ lúc nào trước khi đơn chuyển sang trạng thái *"Đang vận chuyển"* mà không ảnh hưởng xấu đến Người bán (trừ khi khách chọn lý do *"Giao hàng trễ"*).
-- **Hủy đơn đối với đơn hàng COD (Thanh toán khi nhận hàng):** Khách hàng được quyền mở và kiểm tra bưu kiện trước khi thanh toán (áp dụng cho đơn vị vận chuyển J&T Express) và có thể từ chối nhận nếu hàng bị hư hỏng, thiếu hàng hoặc không đúng sản phẩm đã đặt.
+Thông thường, người bán cần thực hiện hành động hai lần: khi khách hàng gửi yêu cầu thì phê duyệt hoặc từ chối yêu cầu; khi nhận được hàng trả thì phê duyệt hoặc từ chối hoàn tiền. Nếu người bán không thực hiện hành động trong thời hạn quy định, yêu cầu có thể được tự động phê duyệt.
 
-### 2.3. Nền tảng TikTok Shop tự động hủy đơn
-TikTok Shop sẽ tự động hủy đơn hàng trong các trường hợp sau:
-- **Thanh toán thất bại / Hoạt động đáng ngờ:** Giao dịch gian lận hoặc nghi ngờ vi phạm nguyên tắc cộng đồng.
-- **Gửi hàng trễ:** Đơn hàng không được Người bán cập nhật sang trạng thái chuẩn bị/chờ lấy hàng theo thời hạn quy định.
-- **Sự cố kho vận (LSP):** Đơn vị vận chuyển thông báo hàng bị thất lạc hoặc hư hỏng trong quá trình vận chuyển. Nền tảng sẽ hoàn tiền ngay cho Người mua và bồi hoàn cho Người bán (trừ sản phẩm dễ hư hỏng đóng gói sai quy cách như trái cây tươi).
+Đối với hoàn tiền nhanh chóng, tiền hoàn được xử lý khi sản phẩm được gửi tại bưu cục hoặc được nhân viên vận chuyển lấy. Với trả hàng tự sắp xếp, người bán phải xem xét sản phẩm trong vòng 14 ngày theo lịch sau khi khách hàng tải thông tin vận chuyển trả hàng.
 
-## 3. Quy trình Trả hàng và Hoàn tiền
-### 3.1. Thời điểm gửi yêu cầu và phê duyệt
-- Khách hàng chỉ có thể gửi yêu cầu trả hàng/hoàn tiền sau khi trạng thái đơn hàng cập nhật thành *"Delivered"*.
-- Người bán có trách nhiệm đánh giá và phản hồi (chấp thuận, từ chối hoặc đề xuất giải pháp thay thế như hoàn tiền một phần) trong thời hạn quy định.
-- Nếu Người bán không phản hồi trong thời hạn, hệ thống sẽ tự động chấp thuận yêu cầu và xử lý hoàn tiền cho khách hàng.
+## Thời gian chi tiết
 
-### 3.2. Cơ chế Hoàn tiền nhanh chóng (Fast Refund)
-- Đối với khách hàng đủ điều kiện, tiền hoàn sẽ được xử lý ngay khi khách hàng gửi kiện hàng tại bưu cục hoặc shipper đến lấy hàng.
-- Nếu sản phẩm hoàn trả sau đó được giao đến trong tình trạng không đạt yêu cầu, Người bán có quyền gửi khiếu nại lên nền tảng để được bồi thường.
+Người mua có thể gửi yêu cầu trong 15 ngày theo lịch đối với sản phẩm Mall và sản phẩm không thuộc Mall. Một số danh mục không thuộc Mall như Mẹ và Bé, Thực phẩm và Đồ uống, Điện thoại và Điện tử, Cải thiện nhà cửa có thời hạn 6 ngày theo lịch.
 
-### 3.3. Các trường hợp ngoại lệ
-- **Sản phẩm không được trả hàng:** Một số danh mục (ví dụ hàng dễ hư hỏng, thực phẩm tươi sống) chỉ áp dụng hoàn tiền mà không cần trả hàng.
-- **Sản phẩm Đổi ý (Change of Mind):** Sản phẩm phải còn nguyên bao bì, chưa qua sử dụng và đáp ứng tiêu chí hợp lệ. Người bán có quyền từ chối nếu không đáp ứng tiêu chuẩn.
+Người bán phải xem xét yêu cầu trong vòng 1 ngày theo lịch kể từ khi nhận được yêu cầu. Nếu không phản hồi đúng hạn, yêu cầu sẽ được tự động phê duyệt. Người bán có thể phê duyệt, từ chối kèm bằng chứng hợp lệ hoặc đề nghị hoàn tiền một phần.
 
-## 4. Phân bổ chi phí vận chuyển khi trả hàng
+Đối với yêu cầu chỉ hoàn tiền, người bán có thể khiếu nại trong vòng 15 ngày theo lịch kể từ khi khoản hoàn tiền được xử lý. Đối với trả hàng tại bưu cục hoặc lấy hàng, thời hạn khiếu nại là 7 ngày theo lịch sau khi hàng trả được giao.
 
-| Trường hợp trả hàng | Phí vận chuyển chiều hoàn trả (Khách ➔ Người bán) | Phí vận chuyển chiều gửi đi (Người bán ➔ Khách) |
-| :--- | :--- | :--- |
-| **Do lỗi của Người bán**<br>*(Giao sai hàng, hàng lỗi, hàng giả, đóng gói kém)* | **Người bán chịu 100%** chi phí | Người bán chịu |
-| **Do lỗi đơn vị vận chuyển (LSP)**<br>*(Hàng hư hỏng/thất lạc do vận chuyển)* | **Đơn vị vận chuyển (LSP) chịu 100%** | Đơn vị vận chuyển chịu, hoàn hoa hồng cho Người bán |
-| **Khách hàng Đổi ý (Change of Mind)** | **Nền tảng TikTok Shop chịu 100%** | **Người bán chi trả theo mức trần:**<br>- Đơn thường: tối đa **40.000 VNĐ/đơn**.<br>- Đơn Hỏa tốc: tối đa **20.000 VNĐ/đơn**.<br>*(Phần vượt trần do Nền tảng thanh toán. Người bán chỉ chịu tối đa 2 lần trả hàng/khách/tháng).* |
+Khách hàng phải chọn ngày lấy hàng trong vòng 3 ngày theo lịch. Với trả hàng tại bưu cục, hàng phải được gửi trong vòng 10 ngày theo lịch. Với trả hàng tự sắp xếp, thông tin theo dõi phải được tải lên trong vòng 10 ngày theo lịch.
 
-## 5. Xử lý tranh chấp sau bán hàng
-- Người bán không được từ chối yêu cầu trả hàng một cách vô lý khi sản phẩm đáp ứng đầy đủ điều kiện.
-- Nền tảng cung cấp dịch vụ trung gian tự nguyện giải quyết tranh chấp sau bán hàng để bảo vệ quyền lợi hợp pháp của cả Người mua và Người bán.
+## Kích hoạt công cụ phê duyệt tự động
+
+Nếu người bán không xem xét đúng hạn trên 90% số yêu cầu nhận được trong một tháng, công cụ phê duyệt tự động có thể được kích hoạt. Công cụ áp dụng cho yêu cầu có tổng giá trị sản phẩm dưới 790.000 đồng và không mang lý do nghi ngờ hàng giả. Mỗi khách hàng chỉ có thể kích hoạt công cụ tối đa ba lần mỗi tháng.
+
+## Bước 1: Quy trình trả hàng/hoàn tiền của khách hàng
+
+Khách hàng có thể yêu cầu trả hàng hoặc hoàn tiền trong thời hạn quy định. Nếu yêu cầu trả hàng được phê duyệt, khách hàng phải vận chuyển sản phẩm đến người bán đúng thời hạn.
+
+Người bán cần chú ý các lý do ảnh hưởng đến Tỷ lệ trả hàng/hoàn tiền do lỗi người bán (SFRR), chẳng hạn thiếu sản phẩm, sản phẩm không đúng mô tả, sản phẩm lỗi hoặc không hoạt động, gửi sai sản phẩm và nghi ngờ hàng giả. Với các lý do không ảnh hưởng đến SFRR, người bán chỉ nên từ chối hoặc khiếu nại khi tình trạng hàng trả không đạt yêu cầu.
+
+## Bước 2: Quy trình xem xét của người bán
+
+Nếu yêu cầu của khách hàng hợp lệ, người bán cần phê duyệt. Chỉ từ chối khi có lý do và bằng chứng hợp lệ; nếu người mua tranh chấp, người bán phải cung cấp bằng chứng.
+
+Người bán có thể thương lượng một giải pháp hậu mãi khác. Nếu người mua chấp nhận đề nghị hoàn tiền một phần trước khi vụ việc được nâng cấp, trường hợp đó không bị tính vào SFRR.
+
+Các bằng chứng có thể gồm video hoặc hình ảnh đóng gói, video minh họa sản phẩm, chứng nhận chất lượng, báo cáo kiểm định và bằng chứng xác thực sản phẩm.
+
+## Bước 3: Xem xét sản phẩm trả hàng
+
+Người bán phải kiểm tra kỹ tình trạng sản phẩm trả lại. Nếu sản phẩm đạt yêu cầu thì phê duyệt; nếu không hành động trong thời hạn quy định, yêu cầu có thể được tự động phê duyệt.
+
+Người bán có thể từ chối khi sản phẩm trả về không phải sản phẩm đã gửi, đã qua sử dụng hoặc không còn khả năng bán lại, bị hư hỏng, thiếu sản phẩm hoặc thiếu bộ phận. Nếu chưa nhận được hàng sau khi trạng thái trả hàng chuyển sang “Đã giao”, hoặc sau 14 ngày kể từ khi người mua tải dữ liệu theo dõi đối với trả hàng tự sắp xếp, người bán có thể chọn lý do chưa nhận được kiện hàng.
+
+## Bước 4: Quy trình kháng nghị của người bán
+
+Người bán có thể kháng nghị khi không đồng ý với tình trạng hàng trong trường hợp hoàn tiền nhanh chóng, chưa nhận được sản phẩm trả hàng, không đồng ý với yêu cầu chỉ hoàn tiền được nền tảng phê duyệt hoặc muốn kháng nghị tranh chấp với khách hàng.
+
+Chỉ được gửi tối đa một kháng nghị, vì vậy cần cung cấp bằng chứng rõ ràng và đầy đủ. Nếu TikTok Shop yêu cầu bổ sung tài liệu, người bán cần gửi thông tin trong vòng 24 giờ.
+
+## Hướng dẫn gửi bằng chứng hậu mãi
+
+Video đóng gói cần thể hiện thông tin đơn hàng, đúng sản phẩm, đủ số lượng và tình trạng nguyên vẹn. Video phải liên tục, rõ ràng và không có dấu hiệu chỉnh sửa.
+
+Video mở kiện hàng trả về cần thể hiện thông tin đơn trả hàng, toàn bộ sáu mặt kiện hàng, quá trình mở kiện và vấn đề cần chứng minh. Các bằng chứng khác có thể gồm ảnh chụp thỏa thuận với khách hàng, video trình diễn sản phẩm, chứng nhận chất lượng và tài liệu chứng minh hàng chính hãng.
+
+## Sản phẩm chỉ hoàn tiền
+
+Một số danh mục không thể trả hàng nhưng vẫn có thể được hoàn tiền, gồm một số thực phẩm và đồ uống, đồ dùng làm vườn, sản phẩm ảo, một số đồ lót, sản phẩm sức khỏe tình dục và voucher vật lý. Danh sách này không đầy đủ và có thể được cập nhật theo thời gian.
+
+## Câu hỏi thường gặp
+
+Khách hàng có 10 ngày theo lịch sau khi yêu cầu trả hàng và hoàn tiền được phê duyệt để gửi sản phẩm. Nếu không gửi trong thời hạn này, yêu cầu sẽ bị đóng và khoản hoàn tiền không được thực hiện.
+
+Nếu lý do trả hàng ảnh hưởng đến SFRR, người bán phải chịu chi phí vận chuyển trả hàng của khách hàng.

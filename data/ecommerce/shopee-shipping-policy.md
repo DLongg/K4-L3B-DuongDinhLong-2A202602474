@@ -1,12 +1,12 @@
 ---
 doc_id: shopee-shipping-policy
 title: Chính sách vận chuyển Shopee
-audience: both
+audience: buyer
 category: shipping-policy
 language: vi
 source_url: https://help.shopee.vn/portal/4/article/206477
 retrieved_at: 2026-09-20
-document_version: "2026-09-15"
+document_version: "not-stated"
 ---
 
 # Chính sách vận chuyển Shopee
