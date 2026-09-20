@@ -8,7 +8,7 @@ L3B dùng chung cam kết mã nguồn cốt lõi (core coding contract) với L3
 
 - Mỗi tài liệu (document) phải có metadata `audience` (`buyer` / `seller` / `both`) và ít nhất một trường (field) hữu ích khác (`category`, `language`...).
 - Ngoài `audience`, mỗi tài liệu phải có `source_url`, `retrieved_at` và `document_version`; chỉ dùng chính sách công khai hoặc được phép chia sẻ.
-- Trong 5 câu hỏi đánh giá (benchmark query), có ít nhất một câu hỏi cần `metadata_filter={"audience": "buyer"}` (hoặc `"seller"`) để tránh lấy tài liệu dành cho đối tượng khác.
+- Trong 5 câu hỏi đánh giá (benchmark query), có ít nhất một câu hỏi cần `metadata_filter={"audience": "buyer"}` (hoặc `"seller"`) K4_VARIANT.md để tránh lấy tài liệu dành cho đối tượng khác.
 - Ít nhất một thành viên thử chia nhỏ (chunking) theo tiêu đề/mục (heading/section) của điều khoản/chính sách gốc.
 - Câu trả lời chuẩn (Gold answer) phải trích được từ tài liệu nhóm thu thập, không suy đoán chính sách của nền tảng.
 

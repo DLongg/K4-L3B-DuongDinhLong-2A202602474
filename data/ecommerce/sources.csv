@@ -1,0 +1,7 @@
+doc_id,file_path,title,source_url,retrieved_at,document_version,license_or_permission
+return-refund-policy,data/ecommerce/return-refund-policy.md,Chính sách đổi trả và hoàn tiền,https://example.com/policy/returns,2026-09-18,not-stated,public-source
+seller-warranty-policy,data/ecommerce/seller-warranty-policy.md,Chính sách bảo hành dành cho người bán,https://example.com/policy/seller-warranty,2026-09-18,not-stated,public-source
+shopee-return-refund-policy,data/ecommerce/shopee-return-refund-policy.md,Chính sách trả hàng và hoàn tiền Shopee,https://help.shopee.vn/portal/article/77491,2026-09-20,2026-03-11,public-source
+shopee-shipping-policy,data/ecommerce/shopee-shipping-policy.md,Chính sách vận chuyển Shopee,https://help.shopee.vn/portal/4/article/206477,2026-09-20,2026-09-15,public-source
+tiktok-return-refund-policy,data/ecommerce/tiktok-return-refund-policy.md,Chính sách hủy đơn, trả hàng và hoàn tiền TikTok Shop,https://seller-vn.tiktok.com/university/essay?identity=1&role=1&knowledge_id=1766935302801169,2026-09-20,2026-09-14,public-source
+tiktok-shop-shipping-policy,data/ecommerce/tiktok-shop-shipping-policy.md,Chính sách vận chuyển TikTok Shop,https://seller-vn.tiktok.com/university/essay?knowledge_id=6024728339744528,2026-08-26,2026-08-26,public-source
